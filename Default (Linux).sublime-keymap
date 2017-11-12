@@ -1,5 +1,5 @@
 [
-    { 
-      "keys": ["alt+shift+f"], "command": "open_folder_in_nautilus"
+    {
+      "keys": ["alt+shift+f"], "command": "open_folder_in_nemo"
     }
 ]

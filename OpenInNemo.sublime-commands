@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "Open in Nemo file manager",
+        "command": "open_folder_in_nemo"
+    }
+]
